@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sohan Sabde</h1>
 
 <h3 align="center">
-*ENTC Student *AI/ML Developer • Python Developer • MERN Enthusiast
+ENTC Engineering Student • AI/ML Developer • Python Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+%26+ML+Developer;Python+Developer;Deep+Learning+Enthusiast;Building+Real+World+Projects;Open+Source+Learner;Flask+%7C+TensorFlow+%7C+MERN" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=950&lines=ENTC+Engineering+Student;AI+%26+ML+Developer;Python+Developer;Deep+Learning+Enthusiast;Building+Real+World+Projects;Flask+%7C+TensorFlow+%7C+MERN" />
 </p>
 
 ---
@@ -105,5 +105,5 @@ https://github.com/augsatr/MediScan-XR
 ---
 
 <p align="center">
-⭐ “Building AI solutions for real-world problems.” ⭐
+⭐ “Engineering + AI + Innovation” ⭐
 </p>
