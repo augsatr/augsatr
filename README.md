@@ -23,24 +23,6 @@ ENTC Student • AI/ML Developer • MERN Stack Enthusiast • Python Programmer
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOURMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/augsatr">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
----
-
 # 🚀 Tech Stack
 
 ### 👨‍💻 Languages
@@ -91,39 +73,6 @@ AI-powered pneumonia detection system using chest X-ray images.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=augsatr&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=augsatr&theme=tokyonight" height="180"/>
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=augsatr&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-# 🏆 Goals
-
-✨ Become a professional Software Engineer  
-✨ Build impactful AI products  
-✨ Contribute to Open Source  
-✨ Master Full Stack Development  
-✨ Create innovative healthcare AI systems  
-
----
-
-# 💡 Inspiration
-
-> “Technology becomes powerful when it solves real human problems.”
-
----
-
 # 🤝 Let's Connect!
 
 <p align="center">
@@ -158,6 +107,33 @@ Let's build something amazing together 🚀
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=augsatr&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=augsatr&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=augsatr&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 Goals
+
+✨ Become a professional Software Engineer  
+✨ Build impactful AI products  
+✨ Contribute to Open Source  
+✨ Master Full Stack Development  
+✨ Create innovative healthcare AI systems  
 
 ---
 
