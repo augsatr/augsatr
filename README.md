@@ -124,6 +124,43 @@ AI-powered pneumonia detection system using chest X-ray images.
 
 ---
 
+# 🤝 Let's Connect!
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4af33560-81ff-4035-860b-27539a898aee" width="320"/>
+</p>
+
+<h3 align="center">
+💼 Open to Full-Time Opportunities!
+</h3>
+
+<p align="center">
+I'm actively exploring opportunities in
+<b>Software Development</b>,
+<b>Artificial Intelligence</b>, and
+<b>Machine Learning Engineering</b>.
+</p>
+
+<p align="center">
+Let's build something amazing together 🚀
+</p>
+
+<p align="center">
+<a href="mailto:YOURMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/augsatr">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
 <p align="center">
 ⭐ Thanks for visiting my profile ⭐
 </p>
