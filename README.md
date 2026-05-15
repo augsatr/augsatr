@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sohan Sabde</h1>
 
 <h3 align="center">
-AI/ML Developer • Python Developer • MERN Enthusiast
+*ENTC Student *AI/ML Developer • Python Developer • MERN Enthusiast
 </h3>
 
 <p align="center">
