@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sohan Sabde</h1>
+<h1 align="center">Hi 👋, I'm Sohan </h1>
 
 <h3 align="center">
 • From firmware to flight • I build things that run on the edge 
