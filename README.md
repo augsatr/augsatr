@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sohan Sabde</h1>
 
 <h3 align="center">
-ENTC Student • AI/ML Developer • MERN Stack Enthusiast • Python Programmer
+ Electronics and Telecommunication Engineering Student • AI/ML Developer • Python Programmer
 </h3>
 
 <p align="center">
