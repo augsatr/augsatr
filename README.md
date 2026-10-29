@@ -58,27 +58,26 @@
 
 ### 👨‍💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,java" />
+C, C++, Python, MATLAB, JavaScript,HTML, CSS
 </p>
 
-### 🔌 Embedded Systems
-<p>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux" />
-</p>
-
-### 🌐 Web Development
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express,mongodb" />
-</p>
-
-### 🤖 AI / ML
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
 
 ### ⚙️ Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase" />
+Core tools
+- Git & GitHub
+- Visual Studio Code
+- MATLAB
+- Arduino IDE
+- KiCad — PCB design basics
+- Postman — API testing
+Technologies to add when you gain hands-on experience
+- Linux
+- STM32CubeIDE
+- Keil µVision
+- Xilinx Vivado
+- Intel Quartus Prime
+- LTspice
 </p>
 
 ---
@@ -87,27 +86,36 @@
 
 ## 🩺 MediScan-XR
 
-AI-powered pneumonia detection system using chest X-ray images.
+# 🚀 Featured Projects
 
-### 🔥 Features
-✔ AI-based X-ray analysis  
-✔ Pneumonia prediction system  
-✔ Modern professional UI  
-✔ Deep Learning model integration  
-✔ Fast image processing  
-✔ Flask backend support  
+### 🔌 PulseBoard — Custom PCB with Embedded Firmware
+**Tech:** KiCad, Embedded C, I2C/SPI
+- Two-layer sensor interface PCB design
+- Firmware integration and board bring-up testing
 
-### 🛠 Built With
-- Python
-- Flask
-- TensorFlow / Keras
-- HTML/CSS
-- JavaScript
+### 📡 5G Microstrip Patch Antenna
+**Tech:** RF Engineering, Antenna Design, HFSS/CST
+- Antenna design targeting the 3.5 GHz band
+- Focus on 5G and wireless communication
 
-🔗 Project Repository:  
-👉 https://github.com/augsatr/MediScan-XR
+### 🏥 Smart Rural Healthcare System
+**Tech:** Arduino, Sensors, IoT
+- Temperature monitoring and video consultation
+- Healthcare access concept for rural communities
 
----
+### 📶 Self-Healing Telecom Network
+**Tech:** Python, Networking, Automation
+- Network fault detection and recovery concepts
+
+### 🧠 MediScan-XR — AI Pneumonia Detection
+**Tech:** Python, Flask, TensorFlow/Keras
+- Chest X-ray classification application
+- Repository: https://github.com/augsatr/MediScan-XR
+
+### 🎓 Smart Classroom & Timetable Scheduler
+**Tech:** Software Development, Scheduling
+- Academic timetable and classroom scheduling
+- DBATU Problem Statement: 25028
 
 # 🤝 Let's Connect!
 
