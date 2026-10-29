@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sohan Sabde</h1>
 
 <h3 align="center">
- Electronics and Telecommunication Engineering Student • AI/ML Developer • Python Programmer
+Embedded Engineer • ENTC Student • AI/ML Developer • Python & C/C++ Programmer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+%26+ML+Developer;ENTC+Engineering+Student;MERN+Stack+Developer;Building+Smart+AI+Applications;Open+Source+Enthusiast;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Embedded+Engineer;ENTC+Engineering+Student;Embedded+Systems+%26+IoT;AI+%26+ML+Developer;Building+Smart+Hardware+%2B+Software;Open+Source+Enthusiast" />
 </p>
-
-<div align="center">
 
 ```text
                  :=--:.:-:.:::.
@@ -40,8 +38,6 @@
   ....::....   =%@@@@@@@@@@@%%#:  -.  ......
 ```
 
-</div>
-
 ---
 
 <img align="right" alt="Coding" width="420" src="https://github.com/user-attachments/assets/15a96c20-a442-42f2-92a3-1a849573adc9" />
@@ -49,7 +45,8 @@
 # 💫 About Me
 
 🎓 ENTC Engineering Student from India  
-💻 Passionate about AI, ML & Full Stack Development  
+🔌 Embedded Engineer passionate about firmware & hardware-software systems  
+💻 Also into AI, ML & Full Stack Development  
 🚀 Building intelligent real-world applications  
 🧠 Currently learning Deep Learning & Advanced MERN Stack  
 ⚡ Love combining creativity with code  
@@ -61,7 +58,12 @@
 
 ### 👨‍💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,java" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,java" />
+</p>
+
+### 🔌 Embedded Systems
+<p>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux" />
 </p>
 
 ### 🌐 Web Development
@@ -119,9 +121,9 @@ AI-powered pneumonia detection system using chest X-ray images.
 
 <p align="center">
 I'm actively exploring opportunities in
-<b>Software Development</b>,
-<b>Artificial Intelligence</b>, and
-<b>Machine Learning Engineering</b>.
+<b>Embedded Systems</b>,
+<b>Firmware Development</b>, and
+<b>AI / Machine Learning Engineering</b>.
 </p>
 
 <p align="center">
@@ -163,8 +165,8 @@ Let's build something amazing together 🚀
 
 # 🏆 Goals
 
-✨ Become a profession Embedded engineer 
-✨ Build impactful AI products  
+✨ Become a professional Embedded Engineer  
+✨ Build impactful embedded & AI products  
 ✨ Contribute to Open Source  
 ✨ Master Full Stack Development  
 ✨ Create innovative healthcare AI systems  
