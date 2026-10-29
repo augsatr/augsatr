@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sohan </h1>
 
 <h3 align="center">
-• From firmware to flight • I build things that run on the edge 
+• I build things that run on the edge 
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Embedded+Engineer;ENTC+Engineering+Student;Embedded+Systems+%26+IoT;AI+%26+ML+Developer;Building+Smart+Hardware+%2B+Software;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Embedded+Engineer;ENTC+Engineering+Student;Embedded+Systems+%26+IoT;AI+%26+ML;Building+Smart+Hardware+%2B+Software;Open+Source+Enthusiast" />
 </p>
 
 ```text
