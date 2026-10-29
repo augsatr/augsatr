@@ -8,6 +8,41 @@ ENTC Student • AI/ML Developer • MERN Stack Enthusiast • Python Programmer
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+%26+ML+Developer;ENTC+Engineering+Student;MERN+Stack+Developer;Building+Smart+AI+Applications;Open+Source+Enthusiast;Future+Software+Engineer" />
 </p>
 
+<div align="center">
+
+```text
+
+                 :=--:.:-:.:::.
+               ::--........   .::..
+          .==:..:.  ..... ..     .::..
+         :-:   ::......              :++:.      augsatr@github
+       .::                             - -:     --------------
+      ..  .  ...                         -      Name: ........................................ Sohan Sabde
+     .:  .....:....         ....        :#+-    Role: ........................... ENTC Engineering Student
+     -:... ...       ..:---..:.          :-:    Focus: ................................ AI/ML + Full Stack
+    =:..         ..:=*#%%##****=-.       .*     Status: .......................... Open to full-time roles
+    --      .-=+=*##%%@@@@@@@@@@%#=.     =-     - Languages ----------------------------------------------
+     =.   .+#%%@@@@@@@@%%%%%%@@@@%*:    -:      Programming: ............ Python, JavaScript, C, C++, Java
+      .   +@@@@@@@@@%@@@@@@@%%%%@@#=    -       - Stack --------------------------------------------------
+      .. :%#*+=---+%@%@%@#=--====*#%-           Web: ....................... React, Node, Express, MongoDB
+      := *%*##**===*%%%@%*+++####**%+ .-        AI/ML: ............................... TensorFlow, PyTorch
+      *%=%@@*+*--*++#@%@#***--*+*@@@#-%@:       Tools: ................... Git, VS Code, Postman, Firebase
+      +@+%@%%%%%%%##%@@@%%%%%%@%%%%%#+@%:       - Project ------------------------------------------------
+       %+%@@@@@@@@%@@@@%@@@@@@@@@@%@**@=        Featured: .................................... MediScan-XR
+       -##@%@%@%%%%%@@%@%%%%%%@%@%%%=%#         About: ................... Pneumonia detection from X-rays
+        ++@%@@@%@@@##@@%#%@@%@@@@%@+=#.         - Contact ------------------------------------------------
+         :*%%%@@@%%+-**++#%%@@@@%@#-:           GitHub: ............................... github.com/augsatr
+          -*@@@#===+*#**+++++%@%%%=:            - Goals --------------------------------------------------
+           -*%@#*###%%%%%###+%%@#=-             Build: ........................... Impactful healthcare AI
+           .++#@@@@@%##%@@@@@@%+:=-
+           .%#++#@@@@@@@@@@%*+=-+@=
+          :.=@%+===####%#*=--+#%@#::.
+        .:.. -%@@#*++==+*+*%@@@@+ ::...
+  ....::....   =%@@@@@@@@@@@%%#:  -.  ......
+```
+
+</div>
+
 ---
 
 <img align="right" alt="Coding" width="420" src="https://github.com/user-attachments/assets/15a96c20-a442-42f2-92a3-1a849573adc9" />
@@ -129,7 +164,7 @@ Let's build something amazing together 🚀
 
 # 🏆 Goals
 
-✨ Become a professional Software Engineer  
+✨ Become a profession Embedded engineer 
 ✨ Build impactful AI products  
 ✨ Contribute to Open Source  
 ✨ Master Full Stack Development  
